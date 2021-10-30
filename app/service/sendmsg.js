@@ -136,7 +136,7 @@ class sendmsg extends Service {
         },
         marry: {
           value: marry,
-          // color: '#ff0033',
+          color: '#ff0033',
         },
         wea: {
           value: getWeather.wea,
